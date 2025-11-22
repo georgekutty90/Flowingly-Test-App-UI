@@ -42,6 +42,7 @@ If you want, I can:
 - **Dev server**: Run the local dev server with Vite:
 
   ```powershell
+  npm install
   npm run dev
   ```
 
